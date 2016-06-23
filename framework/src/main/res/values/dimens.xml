@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--default Layout-->
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="cell_default_margin_text">8dp</dimen>
+    <dimen name="cell_default_margin_left_right">16dp</dimen>
+    <dimen name="cell_default_margin_top_button">16dp</dimen>
+    <dimen name="cell_title_default_margin_left">16dp</dimen>
+
+    <!--default editText-->
+    <dimen name="cell_default_head_size">18sp</dimen>
+    <dimen name="cell_default_edit_text_size">16sp</dimen>
+    <dimen name="cell_default_edit_text_size_floating">12sp</dimen>
+    <dimen name="cell_default_edit_text_floating_button">8dp</dimen>
+
+    <!--button size-->
+    <dimen name="button_default_height">36dp</dimen>
+
+    <!--Cell Break-->
+    <dimen name="cell_break_16">16dp</dimen>
+    <dimen name="cell_break_72">72dp</dimen>
+
+    <!--Widget-->
+    <dimen name="widget_front_size">16dp</dimen>
+    <dimen name="widget_icon_size">24dp</dimen>
+    <dimen name="widget_icon_margin_right">12dp</dimen>
+    <dimen name="widget_button_width">36dp</dimen>
+    <dimen name="widget_button_height">24dp</dimen>
+    <dimen name="widget_button_margin">12dp</dimen>
+
+    <!--Pic size-->
+    <dimen name="avatar_height">40dp</dimen>
+    <dimen name="avatar_width">40dp</dimen>
+    <dimen name="icon_margin">12dp</dimen>
+    <dimen name="icon_height">48dp</dimen>
+    <dimen name="icon_width">48dp</dimen>
+    <dimen name="action_height">24dp</dimen>
+    <dimen name="action_width">24dp</dimen>
+    <dimen name="info_height">20dp</dimen>
+    <dimen name="info_width">20dp</dimen>
+
+    <!--cell_single_line_text_only-->
+    <dimen name="cell_single_line_text_only_font">16sp</dimen>
+    <dimen name="cell_single_line_text_only_height">48dp</dimen>
+    <dimen name="cell_single_line_text_only_margin_top">16dp</dimen>
+    <dimen name="cell_single_line_text_only_margin_bottom">16dp</dimen>
+
+    <!--cell_single_line_icon_with_text-->
+    <dimen name="cell_single_line_icon_with_text_font">16sp</dimen>
+    <dimen name="cell_single_line_icon_with_text_height">48dp</dimen>
+    <dimen name="cell_single_line_icon_with_text_Layout_icon_width">72dp</dimen>
+    <dimen name="cell_single_line_icon_with_text_margin_top">16dp</dimen>
+    <dimen name="cell_single_line_icon_with_text_margin_bottom">16dp</dimen>
+
+    <!--cell_single_line_avatar_with_text-->
+    <dimen name="cell_single_line_avatar_with_text_font">16sp</dimen>
+    <dimen name="cell_single_line_avatar_with_text_height">56dp</dimen>
+    <dimen name="cell_single_line_avatar_with_text_Layout_icon_width">72dp</dimen>
+    <dimen name="cell_single_line_avatar_with_text_margin_top">16dp</dimen>
+    <dimen name="cell_single_line_avatar_with_text_margin_bottom">16dp</dimen>
+
+    <!--cell_two_line_text_only-->
+    <dimen name="cell_two_line_text_only_primary_font">16sp</dimen>
+    <dimen name="cell_two_line_text_only_secondary_font">14sp</dimen>
+    <dimen name="cell_two_line_text_only_height">72dp</dimen>
+    <dimen name="cell_two_line_text_only_margin_top">16dp</dimen>
+    <dimen name="cell_two_line_text_only_margin_bottom">16dp</dimen>
+
+    <!--cell_two_line_icon_with_text-->
+    <dimen name="cell_two_line_icon_with_text_primary_font">16sp</dimen>
+    <dimen name="cell_two_line_icon_with_text_secondary_font">14sp</dimen>
+    <dimen name="cell_two_line_icon_with_text_height">72dp</dimen>
+    <dimen name="cell_two_line_icon_with_text_Layout_icon_width">60dp</dimen>
+    <dimen name="cell_two_line_icon_with_text_margin_top">16dp</dimen>
+    <dimen name="cell_two_line_icon_with_text_margin_bottom">16dp</dimen>
+
+    <!--cell_two_line_icon_with_text_small-->
+    <dimen name="cell_two_line_icon_with_text_small_margin_top">8dp</dimen>
+    <dimen name="cell_two_line_icon_with_text_small_margin_bottom">8dp</dimen>
+
+    <!--cell_two_line_avatar_with_text-->
+    <dimen name="cell_two_line_avatar_with_text_primary_font">16sp</dimen>
+    <dimen name="cell_two_line_avatar_with_text_secondary_font">14sp</dimen>
+    <dimen name="cell_two_line_avatar_with_text_height">72dp</dimen>
+    <dimen name="cell_two_line_avatar_with_text_Layout_icon_width">72dp</dimen>
+    <dimen name="cell_two_line_avatar_with_text_margin_top">16dp</dimen>
+    <dimen name="cell_two_line_avatar_with_text_margin_bottom">16dp</dimen>
+
+    <!--cell_two_line_text_and_action-->
+    <dimen name="cell_two_line_text_and_action_primary_font">16sp</dimen>
+    <dimen name="cell_two_line_text_and_action_secondary_font">14sp</dimen>
+    <dimen name="cell_two_line_text_and_action_height">72dp</dimen>
+    <dimen name="cell_two_line_text_and_action_margin_left">16dp</dimen>
+    <dimen name="cell_two_line_text_and_action_layout_width">40dp</dimen>
+    <dimen name="cell_two_line_text_and_action_margin_top">16dp</dimen>
+    <dimen name="cell_two_line_text_and_action_margin_bottom">16dp</dimen>
+
+    <!--cell_list_headers-->
+    <dimen name="cell_list_headers_height">48dp</dimen>
+    <dimen name="cell_list_sub_headers_height">36dp</dimen>
+    <dimen name="cell_list_sub_headers_font">14sp</dimen>
+
+    <!--cell_Break-->
+    <dimen name="cell_section_break_top">8dp</dimen>
+
+</resources>
