@@ -22,6 +22,8 @@ public class CellSectionBreakWithTitle extends BaseCellView {
 
     /**
      * Simple constructor to use when creating a view from code.
+     * @param dataSource model for cell
+     * @param context context from adapter
      */
     public CellSectionBreakWithTitle(BaseCellDataSource dataSource, Context context) {
         super(dataSource, context);

@@ -16,6 +16,8 @@ public class CellSectionBlank extends BaseCellView {
 
     /**
      * Simple constructor to use when creating a view from code.
+     * @param dataSource model for cell
+     * @param context context from adapter
      */
     public CellSectionBlank(BaseCellDataSource dataSource, Context context) {
         super(dataSource, context);

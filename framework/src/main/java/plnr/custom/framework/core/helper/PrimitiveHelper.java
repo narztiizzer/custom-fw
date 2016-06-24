@@ -6,8 +6,8 @@ package plnr.custom.framework.core.helper;
 public class PrimitiveHelper {
     /**
      * Change the boolean string representative to actual boolean variable
-     * "true", "t", 1   => true
-     * "false", "f", 0  => false
+     * "true", "t", 1 mean true
+     * "false", "f", 0 mean false
      *
      * @param booleanString the string representative of boolean
      * @return the boolean format of input data

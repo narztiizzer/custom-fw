@@ -1,4 +1,4 @@
-package com.tiizzer.narz.core.core.base.model;
+package plnr.custom.framework.core.base.model;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

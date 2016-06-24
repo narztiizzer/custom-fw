@@ -29,6 +29,9 @@ public class BaseFragmentActivity extends FragmentActivity {
 
     /**
      * User for show loading dialog
+     * @param msg message when loading
+     * @param timeoutMsg message when timeout
+     * @param timeoutPeriod duration for timeout
      */
     public void loadingDialog(final String msg, final String timeoutMsg, final long timeoutPeriod) {
         setupTimeoutForDialog(timeoutMsg, timeoutPeriod);
@@ -79,11 +82,16 @@ public class BaseFragmentActivity extends FragmentActivity {
 
     /**
      * User for show loading dialog
+     * @param msg message when loading
      */
     public void loadingDialog(final String msg) {
         this.loadingDialog(msg, Config.RequestTimeoutMessage, Config.RequestDefaultTimeout);
     }
 
+    /**
+     * User for show loading dialog
+     * @param text message to show
+     */
     public void showToast(final String text) {
         runOnUiThread(new Runnable() {
             @Override

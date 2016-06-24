@@ -680,7 +680,6 @@ public abstract class BaseModel implements Serializable, IJSONEnable, IRestServi
     /**
      * This function will provide the identification for the
      * object that use for fetch from the server
-     * <p/>
      * e.g.
      * The mapping service point to www.example.com
      * getKeyForObjectIdentificationRequest = id
@@ -696,7 +695,6 @@ public abstract class BaseModel implements Serializable, IJSONEnable, IRestServi
     /**
      * This function will provide the key for identification
      * that will send to server to fetch object
-     * <p/>
      * e.g.
      * The mapping service point to www.example.com
      * getKeyForObjectIdentificationRequest = id

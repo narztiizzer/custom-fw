@@ -7,13 +7,9 @@ public class UnicodeConverter {
 
     /**
      * Converts the string to the unicode format '\u0020'.
-     * <p/>
      * This format is the Java source code format.
-     * <p/>
-     * <pre>
      *   CharUtils.unicodeEscaped(' ') = "\u0020"
      *   CharUtils.unicodeEscaped('A') = "\u0041"
-     * </pre>
      *
      * @param ch the character to convert
      * @return the escaped unicode string
@@ -31,16 +27,12 @@ public class UnicodeConverter {
 
     /**
      * Converts the string to the unicode format '\u0020'.
-     * <p/>
      * This format is the Java source code format.
-     * <p/>
-     * If <code>null</code> is passed in, <code>null</code> will be returned.
-     * <p/>
-     * <pre>
+     * If null is passed in, null will be returned.
+     *
      *   CharUtils.unicodeEscaped(null) = null
      *   CharUtils.unicodeEscaped(' ')  = "\u0020"
      *   CharUtils.unicodeEscaped('A')  = "\u0041"
-     * </pre>
      *
      * @param ch the character to convert, may be null
      * @return the escaped unicode string, null if null input
