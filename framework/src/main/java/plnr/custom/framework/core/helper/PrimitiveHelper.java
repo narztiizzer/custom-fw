@@ -18,3 +18,7 @@ public class PrimitiveHelper {
                 booleanString.trim().equalsIgnoreCase("true");
     }
 }
+
+
+
+
