@@ -17,4 +17,4 @@ public class PrimitiveHelper {
                 booleanString.trim().equalsIgnoreCase("t") ||
                 booleanString.trim().equalsIgnoreCase("true");
     }
-}//////////////////////////
+}
