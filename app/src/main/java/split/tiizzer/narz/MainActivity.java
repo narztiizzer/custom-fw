@@ -59,6 +59,15 @@ public class MainActivity extends AppCompatActivity
         bsla.addSectionBlank();
         bsla.getDataSource().add(new CellEditTextDatasource(new MockupModel() , CellEditTextDatasource.TAG));
         bsla.addSectionBreak();
+        bsla.addSectionBlank();
+        bsla.getDataSource().add(new CellEditTextDatasource(new MockupModel() , CellEditTextDatasource.TAG));
+        bsla.addSectionBreak();
+        bsla.addSectionBlank();
+        bsla.getDataSource().add(new CellEditTextDatasource(new MockupModel() , CellEditTextDatasource.TAG));
+        bsla.addSectionBreak();
+        bsla.addSectionBlank();
+        bsla.getDataSource().add(new CellEditTextDatasource(new MockupModel() , CellEditTextDatasource.TAG));
+        bsla.addSectionBreak();
 
         bsl.setScrollListAdapter(bsla);
     }
