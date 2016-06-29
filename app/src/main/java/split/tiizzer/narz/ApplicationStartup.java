@@ -1,5 +1,7 @@
 package split.tiizzer.narz;
 
+import android.util.Log;
+
 import java.text.DateFormatSymbols;
 
 import plnr.custom.framework.ServicesMapping;
@@ -13,6 +15,7 @@ public class ApplicationStartup extends BaseApplication {
     @Override
     public void applicationCreated() {
         BaseViewClassHolder.getInstance().addViewClass(CellEditText.class , CellEditTextDatasource.TAG);
+        Log.d("TAG" , "Test");
     }
 
     @Override

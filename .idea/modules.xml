@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Split.iml" filepath="$PROJECT_DIR$/Split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreLibrary.iml" filepath="$PROJECT_DIR$/CoreLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plnr-core/plnr-core.iml" filepath="$PROJECT_DIR$/plnr-core/plnr-core.iml" />
     </modules>
   </component>
 </project>
