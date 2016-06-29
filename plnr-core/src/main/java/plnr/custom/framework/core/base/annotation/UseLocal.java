@@ -1,4 +1,4 @@
-package com.tiizzer.narz.core.core.base.annotation;
+package plnr.custom.framework.core.base.annotation;
 
 /**
  * Created by ponlavitlarpeampaisarl on 2/4/15 AD.

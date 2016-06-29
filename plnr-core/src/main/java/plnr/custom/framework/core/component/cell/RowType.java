@@ -1,4 +1,4 @@
-package com.tiizzer.narz.core.core.component.cell;
+package plnr.custom.framework.core.component.cell;
 
 /**
  * This is provided row layout

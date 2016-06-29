@@ -1,4 +1,4 @@
-package com.tiizzer.narz.core.core.base.exception;
+package plnr.custom.framework.core.base.exception;
 
 /**
  * Created by ponlavitlarpeampaisarl on 2/3/15 AD.

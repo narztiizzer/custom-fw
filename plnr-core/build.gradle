@@ -5,8 +5,8 @@ ext {
     bintrayName = 'plnr-core'
 
     publishedGroupId = 'plnr.custom.framework'
-    libraryName = 'framework'
-    artifact = 'framework'
+    libraryName = 'plnr-core'
+    artifact = 'plnr-core'
 
     libraryDescription = 'Custom framework create by Ponlavit Larpeampaisarl and Nattapong Rattasamut'
 

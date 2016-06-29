@@ -1,4 +1,4 @@
-package com.tiizzer.narz.core.core.helper;
+package plnr.custom.framework.core.helper;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
